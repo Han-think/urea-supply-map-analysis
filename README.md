@@ -15,7 +15,8 @@ The original station dataset looked nationwide at first glance, but the usable o
 [Open the project README](urea-supply-map-analysis/README.md)  
 [Open the notebook](urea-supply-map-analysis/notebooks/urea_supply_map_analysis.ipynb)  
 [Browse processed data](urea-supply-map-analysis/data/processed/)  
-[Read the project experience note](docs/project_experience.md)
+[Read the project experience note](docs/project_experience.md)  
+[Read the evaluation reflection](docs/evaluation_reflection.md)
 
 ## Visual preview
 
@@ -38,12 +39,14 @@ The original station dataset looked nationwide at first glance, but the usable o
 | Privacy hygiene | Removed station names, street addresses, phone numbers, instructor PDFs, and original classroom notebooks |
 | Reproducibility | Kept a compact notebook, processed CSV files, and an asset preparation script |
 | Communication | Added charts, map imagery, and a project narrative suitable for portfolio review |
+| Evaluation reflection | Added SCQA, MECE, validation, and Action Plan review for future project improvement |
 
 ## Repository structure
 
 ```text
 docs/
   project_experience.md
+  evaluation_reflection.md
 
 urea-supply-map-analysis/
   data/
