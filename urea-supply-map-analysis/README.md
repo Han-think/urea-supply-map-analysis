@@ -16,6 +16,19 @@ This project therefore reframes the problem:
 - anonymize station-level records for public release;
 - simulate a 1,000,000 L allocation plan.
 
+## Evaluation-oriented summary
+
+This project was later reviewed against practical mini-project criteria:
+
+- SCQA problem definition;
+- MECE evidence structure;
+- claim-based statistical validation;
+- decision-oriented visualization;
+- Action Plan / So What;
+- public-safe GitHub packaging.
+
+The main improvement lesson is that a stronger data project should start from the decision-maker, not from the CSV file.
+
 ## Quick links
 
 | Item | Link |
@@ -26,6 +39,7 @@ This project therefore reframes the problem:
 | Figures | [figures/](figures/) |
 | Asset builder | [src/prepare_public_assets.py](src/prepare_public_assets.py) |
 | Experience note | [../docs/project_experience.md](../docs/project_experience.md) |
+| Evaluation reflection | [../docs/evaluation_reflection.md](../docs/evaluation_reflection.md) |
 
 ## Key numbers
 
