@@ -1,0 +1,4 @@
+scenario,scr_adoption_rate,urea_use_l_per_10l_diesel,truck_fuel_efficiency_km_per_10l,meaning
+Low,0.1,1,400,Conservative demand case
+Base,0.166,1,350,Planning baseline
+High,0.25,1,300,Stress case for emergency reserves
